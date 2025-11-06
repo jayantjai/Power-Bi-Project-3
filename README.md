@@ -1,0 +1,1 @@
+This Power BI report delivers interactive and insightful analytics by visualising key business metrics through dynamic dashboards. The solution incorporates data transformation, model building, and DAX calculations to enable users to explore trends, performance by segment, and actionable insights at a glance.
